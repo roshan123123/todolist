@@ -161,5 +161,5 @@ app.listen(port);
 
 app.listen(port,function()
 {
-  console.log("working properly");
+  console.log("server started");
 });
